@@ -42,7 +42,7 @@ body {
 
 /* Header principal */
 .hero {
-    background-image: url('assets/shapelined-_JBKdviweXI-unsplash.jpg'); /* Puedes cambiar esta URL */
+    background-image: url('assets/shapelined-_JBKdviweXI-unsplash.jpg'); 
     background-size: cover;
     background-position: center;
     height: 400px;
